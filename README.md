@@ -20,7 +20,3 @@ Busca em português e inglês, com eventos brasileiros e internacionais. Tipos: 
 ## Comandos
 `/eventos` · `/inscrevi 12` · `/vou 12` · `/minhas` · `/agenda` · `/ignorar 12` · `/status S1 aceito` · `/data S1 Resultado 2027-08-20` · `/local S1 Milão, Itália` · `/evento S1 2027-12-07` · `/remover S1` · `/ajuda`
 
-## Observações
-- Os dois bots dividem a cota diária de tokens do Groq. Por isso este roda no sábado e o Radar Congressos na sexta.
-- Confira sempre o prazo no link antes de se planejar: o bot lê a web com IA e pode errar.
-- Para mudar áreas, temas ou eventos vigiados, edite `config.json`.
