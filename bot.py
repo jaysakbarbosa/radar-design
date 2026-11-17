@@ -241,7 +241,7 @@ def groq_search(prompt, query=None):
 def theme_prompt(theme):
     return (
         f"Hoje é {TODAY.isoformat()}. Pesquise oportunidades de design sobre: {theme}. Liste o MÁXIMO possível (pelo menos 10), "
-        f"não só as mais famosas, no Brasil e no mundo.\n"
+        f"não só as mais famosas, no Brasil e no mundo. Considere páginas em português e em inglês.\n"
         f"Quero eventos, conferências, festivais, prêmios e concursos com inscrição aberta, chamadas de palestrantes ou trabalhos, "
         f"bolsas, residências e workshops com prazo de inscrição/envio ABERTO agora ou que vence nos próximos {CFG['horizon_days']} dias, "
         f"ou que acontecem nesse período. Informe SEMPRE a cidade e o país (ou online) e a data do evento. "
@@ -255,7 +255,7 @@ event_prompt = theme_prompt
 def watch_prompt(names):
     return (
         f"Hoje é {TODAY.isoformat()}. Verifique na web o prazo atual/próximo (ainda não vencido, dentro de "
-        f"{CFG['horizon_days']} dias) de inscrição de trabalhos, chamada de palestrantes ou ingressos de cada um destes eventos ou prêmios: "
+        f"{CFG['horizon_days']} dias) de inscrição de trabalhos, chamada de palestrantes ou ingressos de cada um destes eventos ou prêmios (páginas em português ou inglês): "
         f"{', '.join(names)}.\nInforme cidade, país e data do evento. Omita os que ainda não divulgaram datas.\n\n{SCHEMA}"
     )
 
@@ -275,6 +275,12 @@ def collect_items(mock=None):
         for k in range(0, len(wl), 3):
             grp = wl[k : k + 3]
             jobs.append((watch_prompt(grp), f"{' '.join(grp)} 2027 entries speakers tickets deadline", a["key"]))
+        for t in a.get("pt_themes", []):
+            jobs.append((theme_prompt(t), f"{_head(t)} inscrições abertas 2027 prazo", a["key"]))
+        wb = a.get("watchlist_br", [])
+        for k in range(0, len(wb), 3):
+            grp = wb[k : k + 3]
+            jobs.append((watch_prompt(grp), f"{' '.join(grp)} 2027 inscrições chamada prazo", a["key"]))
     first = TODAY.replace(day=1)
     for k in range(CFG.get("monthly_scans", 6)):
         m = first.month - 1 + k
@@ -285,6 +291,19 @@ def collect_items(mock=None):
                 f"workshops de design (gráfico, UI/UX, produto, móveis e motion) cujo prazo de inscrição ou envio cai em {d.strftime('%m/%Y')}. "
                 f"Só com data confirmada em página oficial e URL oficial.\n\n{SCHEMA}",
                 f"design awards conferences call for entries deadline {d.strftime('%B %Y')}",
+                None,
+            )
+        )
+    meses = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"]
+    for k in range(6):
+        m = first.month - 1 + k
+        d = dt.date(first.year + m // 12, m % 12 + 1, 1)
+        jobs.append(
+            (
+                f"Hoje é {TODAY.isoformat()}. Liste o MÁXIMO possível (pelo menos 15) de eventos, prêmios, concursos, chamadas, bolsas e "
+                f"workshops de design brasileiros e latino-americanos (gráfico, UI/UX, produto, móveis e motion) cujo prazo de inscrição ou "
+                f"envio cai em {d.strftime('%m/%Y')}. Use páginas em português. Só com data confirmada em página oficial e URL oficial.\n\n{SCHEMA}",
+                f"prêmio evento design inscrições abertas prazo {meses[d.month - 1]} {d.year}",
                 None,
             )
         )
@@ -874,7 +893,7 @@ def main():
     msgs = build_messages(sections)
     full = not a.reminders and not a.poll
     if full and not msgs:
-        msgs = [pick("Sis, semana de calmaria: nenhum prazo novo. Aproveita pra criar e hidratar 💧✨", "Nada de babado novo essa semana, diva. A madrinha volta sábado 💋")]
+        msgs = [pick("Sis, semana de calmaria: nenhum prazo novo. Aproveita pra criar e hidratar 💧✨", "Nada de babado novo essa semana, diva. A madrinha volta sexta 💋")]
     if full and msgs:
         msgs[0] = (
             f"📡 <b>Radar Design</b> · {TODAY.strftime('%d/%m/%Y')} · {len(new_items)} novo(s)\n"
