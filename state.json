@@ -51,7 +51,9 @@
    "location": "online",
    "name": "AI 2027 Conference – Designing AI Experiences",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "ai",
     "ux",
@@ -132,7 +134,10 @@
    "location": "online",
    "name": "ATypI 2026 Board Elections",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14,
+    7
+   ],
    "topics": [
     "typography",
     "board",
@@ -315,7 +320,9 @@
    "location": "online",
    "name": "DATE 2027 – Design, Architecture, Technology & Engineering Conference",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "design",
     "technology",
@@ -377,7 +384,9 @@
    "location": "online",
    "name": "Design Incubation Communication Design Educators Awards 2026",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "communication",
     "education"
@@ -633,7 +642,9 @@
    "location": "online",
    "name": "IxDA Global Student Interaction Design Competition",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "interaction design",
     "student"
@@ -871,7 +882,9 @@
    "location": "Stockholm, Sweden",
    "name": "Stockholm Creative Edition (SCE) 2027",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "design",
     "industrial",
