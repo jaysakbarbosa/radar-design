@@ -2,8 +2,8 @@ name: Radar Design
 
 on:
   schedule:
-    - cron: "0 15 * * 6"       # sábado 12:00 (Natal): varredura completa com IA
-    - cron: "0 15 * * 0-5"     # demais dias 12:00: lembretes de prazos e datas
+    - cron: "0 19 * * 5"       # sexta 16:00 (Natal): varredura completa com IA
+    - cron: "0 15 * * 0-4,6"   # demais dias 12:00: lembretes de prazos e datas
     - cron: "45 */3 * * *"     # a cada 3h: lê e responde seus comandos no Telegram
   workflow_dispatch:
     inputs:
@@ -33,7 +33,7 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
-          MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || (github.event.schedule == '0 15 * * 6' && 'full' || (github.event.schedule == '0 15 * * 0-5' && 'reminders' || 'poll')) }}
+          MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || (github.event.schedule == '0 19 * * 5' && 'full' || (github.event.schedule == '0 15 * * 0-4,6' && 'reminders' || 'poll')) }}
         run: |
           case "$MODE" in
             full) python bot.py ;;
