@@ -1,0 +1,1126 @@
+{
+ "events": {
+  "adesignaward2027|competition|": {
+   "acronym": "A' Design Award 2027",
+   "category": "produto",
+   "deadline": "2027-02-28",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "gratuito",
+   "id": 28,
+   "kind": "competition",
+   "location": "Online",
+   "name": "A' Design Award and Competition",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "design",
+    "innovation"
+   ],
+   "url": "https://competition.adesignaward.com"
+  },
+  "adfdesignaward2027|competition|": {
+   "acronym": "ADF Design Award 2027",
+   "category": "grafico",
+   "deadline": "2026-12-18",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 4,
+   "kind": "competition",
+   "location": "online",
+   "name": "ADF Design Award 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "graphic",
+    "branding",
+    "visual identity"
+   ],
+   "url": "https://www.adfwebmagazine.jp/en/design/call-for-entries-adf-design-award-2027"
+  },
+  "ai2027|event|": {
+   "acronym": "AI 2027",
+   "category": "uiux",
+   "deadline": "2026-12-01",
+   "deadline_type": "registration",
+   "event_date": "2026-12-01",
+   "fee": "null",
+   "id": 14,
+   "kind": "event",
+   "location": "online",
+   "name": "AI 2027 Conference – Designing AI Experiences",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "ai",
+    "ux",
+    "design"
+   ],
+   "url": "https://smashingconf.com/ai-2027-conference/speakers"
+  },
+  "aidesignsystems2027|event|": {
+   "acronym": "AI Design Systems 2027",
+   "category": "uiux",
+   "deadline": "2027-03-10",
+   "deadline_type": "registration",
+   "event_date": "2027-03-10",
+   "fee": null,
+   "id": 16,
+   "kind": "event",
+   "location": "online",
+   "name": "AI Design Systems Conference 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "ai",
+    "design systems",
+    "ui",
+    "ux"
+   ],
+   "url": "https://www.intodesignsystems.com"
+  },
+  "annecyfestival2027|event|": {
+   "acronym": "Annecy Festival 2027",
+   "category": "motion",
+   "deadline": "2027-06-13",
+   "deadline_type": "registration",
+   "event_date": "2027-06-13",
+   "fee": null,
+   "id": 43,
+   "kind": "event",
+   "location": "Annecy, France",
+   "name": "Annecy International Animation Film Festival & Mifa 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "animation",
+    "film",
+    "motion graphics"
+   ],
+   "url": "https://www.thevoltas.com/events"
+  },
+  "architectschair2027|competition|stockholm fu": {
+   "acronym": "Architect’s Chair 2027",
+   "category": "moveis",
+   "deadline": "2026-12-03",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "null",
+   "id": 30,
+   "kind": "competition",
+   "location": "Estocolmo, Suécia",
+   "name": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+   "parent_conference": "Stockholm Furniture Fair",
+   "reminded": [],
+   "topics": [
+    "furniture",
+    "fair",
+    "competition"
+   ],
+   "url": "https://www.dezeen.com/competitions/stage/calls-for-entries"
+  },
+  "atypiboardelections2026|call|": {
+   "acronym": "ATypI Board Elections 2026",
+   "category": "grafico",
+   "deadline": "2026-11-22",
+   "deadline_type": "speaker",
+   "event_date": null,
+   "fee": "gratuito",
+   "id": 9,
+   "kind": "call",
+   "location": "online",
+   "name": "ATypI 2026 Board Elections",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "typography",
+    "board",
+    "nominations"
+   ],
+   "url": "https://atypi.org"
+  },
+  "bda2026|competition|": {
+   "acronym": "BDA 2026",
+   "category": "produto",
+   "deadline": "2026-12-12",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "gratuito",
+   "id": 48,
+   "kind": "competition",
+   "location": "online",
+   "name": "Better Design Award 2026",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "product",
+    "industrial",
+    "innovation"
+   ],
+   "url": "https://wdo.org/better-design-award-2026-launches-global-call-for-entries"
+  },
+  "cdw2027|event|": {
+   "acronym": "CDW 2027",
+   "category": "produto",
+   "deadline": "2027-05-25",
+   "deadline_type": "registration",
+   "event_date": "2027-05-25",
+   "fee": null,
+   "id": 33,
+   "kind": "event",
+   "location": "London, United Kingdom",
+   "name": "Clerkenwell Design Week",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "exhibition",
+    "talks",
+    "showroom",
+    "design"
+   ],
+   "url": "httpshttps://www.clerkenwelldesignweek.com"
+  },
+  "chi2027|event|": {
+   "acronym": "CHI 2027",
+   "category": "uiux",
+   "deadline": "2027-01-21",
+   "deadline_type": "submission",
+   "event_date": "2027-05-10",
+   "fee": null,
+   "id": 19,
+   "kind": "event",
+   "location": "Pittsburgh, USA",
+   "name": "CHI Conference on Human Factors in Computing Systems 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "human-computer interaction",
+    "ux research",
+    "design",
+    "ai"
+   ],
+   "url": "https://chi2027.acm.org"
+  },
+  "cidea2027|competition|": {
+   "acronym": "C-IDEA 2027",
+   "category": "grafico",
+   "deadline": "2027-01-31",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 52,
+   "kind": "competition",
+   "location": "online",
+   "name": "C-IDEA Design Award 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "design award",
+    "graphic design",
+    "product design"
+   ],
+   "url": "https://cidea-union.com/2027-call-for-entries"
+  },
+  "commartsdesign2027|competition|": {
+   "acronym": "CommArts Design 2027",
+   "category": "grafico",
+   "deadline": "2027-05-07",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 2,
+   "kind": "competition",
+   "location": "online",
+   "name": "Communication Arts 2027 Design Competition",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "graphic design",
+    "illustration",
+    "typography",
+    "advertising"
+   ],
+   "url": "https://www.commarts.com/competition/2027-design"
+  },
+  "core77awards2027|competition|": {
+   "acronym": "Core77 Awards 2027",
+   "category": "grafico",
+   "deadline": "2027-03-23",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 6,
+   "kind": "competition",
+   "location": "online",
+   "name": "Core77 Design Awards 2027 – Regular Entry",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "design",
+    "graphic",
+    "product"
+   ],
+   "url": "https://award-service.net/en/award-deadlines"
+  },
+  "dadawards2027|competition|": {
+   "acronym": "D&AD Awards 2027",
+   "category": "grafico",
+   "deadline": "2027-03-18",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 7,
+   "kind": "competition",
+   "location": "online",
+   "name": "D&AD Awards 2027 – Graphic Design",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "graphic",
+    "advertising",
+    "branding"
+   ],
+   "url": "https://award-service.net/en/award-deadlines"
+  },
+  "dashbash2027|event|": {
+   "acronym": "Dash Bash 2027",
+   "category": "motion",
+   "deadline": "2027-05-19",
+   "deadline_type": "registration",
+   "event_date": "2027-05-19",
+   "fee": null,
+   "id": 39,
+   "kind": "event",
+   "location": "Raleigh, USA",
+   "name": "Dash Bash Motion Design Festival 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "animation",
+    "motion design",
+    "workshops"
+   ],
+   "url": "https://dashbash.net"
+  },
+  "date2027|call|": {
+   "acronym": "DATE 2027",
+   "category": "uiux",
+   "deadline": "2026-11-29",
+   "deadline_type": "submission",
+   "event_date": "2027-01-10",
+   "fee": "null",
+   "id": 11,
+   "kind": "call",
+   "location": "online",
+   "name": "DATE 2027 – Design, Architecture, Technology & Engineering Conference",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "design",
+    "technology",
+    "engineering",
+    "uiux"
+   ],
+   "url": "https://www.date-conference.com/call-for-papers"
+  },
+  "dealab2026|competition|lab design c": {
+   "acronym": "DEA Lab 2026",
+   "category": "grafico",
+   "deadline": "2026-12-04",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "gratuito",
+   "id": 47,
+   "kind": "competition",
+   "location": "online",
+   "name": "Design Excellence Awards - Lab Design Conference 2026",
+   "parent_conference": "Lab Design Conference",
+   "reminded": [],
+   "topics": [
+    "laboratory",
+    "interior",
+    "sustainable"
+   ],
+   "url": "httpshttps://www.labdesignconference.com/design-excellence-awards"
+  },
+  "designsystemsconference2027|event|": {
+   "acronym": "Design Systems Conference 2027",
+   "category": "uiux",
+   "deadline": "2027-03-10",
+   "deadline_type": "registration",
+   "event_date": "2027-03-10",
+   "fee": null,
+   "id": 20,
+   "kind": "event",
+   "location": "Online",
+   "name": "AI Design Systems Conference 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "design systems",
+    "AI",
+    "product",
+    "ux"
+   ],
+   "url": "https://www.intodesignsystems.com"
+  },
+  "dice2026|competition|": {
+   "acronym": "DICE 2026",
+   "category": "grafico",
+   "deadline": "2026-12-01",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "gratuito",
+   "id": 51,
+   "kind": "competition",
+   "location": "online",
+   "name": "Design Incubation Communication Design Educators Awards 2026",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "communication",
+    "education"
+   ],
+   "url": "https://designincubation.com/category/call-for-submissions"
+  },
+  "fpd2027|event|": {
+   "acronym": "FPD 2027",
+   "category": "produto",
+   "deadline": "2027-09-22",
+   "deadline_type": "registration",
+   "event_date": "2027-09-22",
+   "fee": "null",
+   "id": 12,
+   "kind": "event",
+   "location": "Berlin, Germany",
+   "name": "Future Product Days 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "product design",
+    "ux",
+    "ai",
+    "software engineering"
+   ],
+   "url": "https://www.futureproductdays.com"
+  },
+  "fuorisalone2027|event|": {
+   "acronym": "Fuorisalone 2027",
+   "category": "moveis",
+   "deadline": "2027-04-12",
+   "deadline_type": "registration",
+   "event_date": "2027-04-12",
+   "fee": "gratuito",
+   "id": 32,
+   "kind": "event",
+   "location": "Milan, Italy",
+   "name": "Fuorisalone – Milan Design Week 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "design week",
+    "exhibitions",
+    "installations"
+   ],
+   "url": "https://www.fuorisalone.it/en"
+  },
+  "graphisaicreative2026|competition|": {
+   "acronym": "Graphis AI Creative 2026",
+   "category": "grafico",
+   "deadline": "2026-12-08",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "null",
+   "id": 25,
+   "kind": "competition",
+   "location": "online (International)",
+   "name": "Graphis AI Creative 2026",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "artificial intelligence",
+    "creative technology"
+   ],
+   "url": "https://graphis.com/competitions/call-for-entries"
+  },
+  "graphisdesign2028|competition|": {
+   "acronym": "Graphis Design 2028",
+   "category": "grafico",
+   "deadline": "2027-03-02",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "null",
+   "id": 24,
+   "kind": "competition",
+   "location": "online (International)",
+   "name": "Graphis Design 2028",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "graphic design",
+    "visual communication"
+   ],
+   "url": "https://graphis.com/competitions/call-for-entries"
+  },
+  "graphisposter2028|competition|": {
+   "acronym": "Graphis Poster 2028",
+   "category": "grafico",
+   "deadline": "2027-02-02",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "null",
+   "id": 54,
+   "kind": "competition",
+   "location": "online",
+   "name": "Graphis Poster Competition 2028",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "poster",
+    "graphic design",
+    "visual communication"
+   ],
+   "url": "https://graphis.com/competitions/call-for-entries"
+  },
+  "hia2026|competition|": {
+   "acronym": "HIA 2026",
+   "category": "uiux",
+   "deadline": "2026-12-11",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 49,
+   "kind": "competition",
+   "location": "online",
+   "name": "Horizon Interactive Awards 2026 Web Design Competition",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "web",
+    "interactive",
+    "media"
+   ],
+   "url": "https://www.horizoninteractiveawards.com"
+  },
+  "horizoninteractiveawards2026|competition|": {
+   "acronym": "Horizon Interactive Awards 2026",
+   "category": "uiux",
+   "deadline": "2026-12-11",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": null,
+   "id": 45,
+   "kind": "competition",
+   "location": "online",
+   "name": "Horizon Interactive Awards – Web Design Competition 2026",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "web",
+    "interactive",
+    "digital"
+   ],
+   "url": "https://www.horizoninteractiveawards.com"
+  },
+  "iada2026ac|competition|": {
+   "acronym": "IADA 2026 AC",
+   "category": "grafico",
+   "deadline": "2026-12-18",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 50,
+   "kind": "competition",
+   "location": "online",
+   "name": "International Architecture & Design Awards 2026 – Advance Current",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "architecture",
+    "design"
+   ],
+   "url": "https://ad-c.org"
+  },
+  "ieabrandinggraphic2027|competition|": {
+   "acronym": "IEA Branding Graphic 2027",
+   "category": "grafico",
+   "deadline": "2027-03-19",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 1,
+   "kind": "competition",
+   "location": "online",
+   "name": "International Excellence Awards – Branding & Graphic Design Category 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "branding",
+    "graphic design",
+    "typography"
+   ],
+   "url": "https://designskill.org/branding-graphic-design-category"
+  },
+  "ifdcasahikawa2027|competition|": {
+   "acronym": "IFDC Asahikawa 2027",
+   "category": "moveis",
+   "deadline": "2026-12-11",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "null",
+   "id": 29,
+   "kind": "competition",
+   "location": "Asahikawa, Japão",
+   "name": "International Furniture Design Competition Asahikawa 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "furniture",
+    "design",
+    "competition"
+   ],
+   "url": "https://www.dezeen.com/competitions/stage/calls-for-entries"
+  },
+  "inhorgenta2027|competition|": {
+   "acronym": "INHORGENTA 2027",
+   "category": "produto",
+   "deadline": "2027-01-25",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 53,
+   "kind": "competition",
+   "location": "online",
+   "name": "INHORGENTA AWARD 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "product design",
+    "luxury",
+    "jewelry"
+   ],
+   "url": "https://inhorgenta.com/en/award/application/"
+  },
+  "intinteriordesignawards2027|competition|": {
+   "acronym": "INT Interior Design Awards 2027",
+   "category": "produto",
+   "deadline": "2027-02-15",
+   "deadline_type": "early_bird",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 21,
+   "kind": "competition",
+   "location": "online (global)",
+   "name": "INT Interior Design Awards 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "interior design",
+    "product design"
+   ],
+   "url": "https://intdesignaward.com/int-interior-design-awards-2027-call-for-entries-now-open"
+  },
+  "ixdacompetition2026|competition|": {
+   "acronym": "IxDA Competition 2026",
+   "category": "uiux",
+   "deadline": "2026-11-30",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "gratuito",
+   "id": 18,
+   "kind": "competition",
+   "location": "online",
+   "name": "IxDA Global Student Interaction Design Competition",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "interaction design",
+    "student"
+   ],
+   "url": "https://www.designative.info/tag/interaction-designer/page/5"
+  },
+  "monolineawards2027|competition|": {
+   "acronym": "Monoline Awards 2027",
+   "category": "motion",
+   "deadline": "2026-12-31",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "$40",
+   "id": 41,
+   "kind": "competition",
+   "location": "Los Angeles, USA",
+   "name": "Monoline Design Awards 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "graphic design",
+    "motion graphics"
+   ],
+   "url": "https://artisttrust.org/opportunities/2027-monoline-design-awards-calls-submissions"
+  },
+  "motionawards2027|competition|": {
+   "acronym": "Motion Awards 2027",
+   "category": "motion",
+   "deadline": "2027-01-15",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 37,
+   "kind": "competition",
+   "location": "online",
+   "name": "The Motion Awards 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "motion design",
+    "branding",
+    "advertising"
+   ],
+   "url": "https://motionawards.com"
+  },
+  "natureinmotion2027|call|": {
+   "acronym": "Nature In Motion 2027",
+   "category": "motion",
+   "deadline": "2027-09-02",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "$5",
+   "id": 42,
+   "kind": "call",
+   "location": "Virginia, USA",
+   "name": "Nature In Motion Art Call",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "nature",
+    "motion graphics",
+    "animation"
+   ],
+   "url": "https://artcall.org/calls"
+  },
+  "offfbarcelona2027|event|": {
+   "acronym": "OFFF Barcelona 2027",
+   "category": "grafico",
+   "deadline": "2027-05-06",
+   "deadline_type": "registration",
+   "event_date": "2027-05-06",
+   "fee": "330",
+   "id": 44,
+   "kind": "event",
+   "location": "Barcelona, Spain",
+   "name": "OFFF Barcelona Festival 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "graphic design",
+    "motion design",
+    "digital art",
+    "visual communication"
+   ],
+   "url": "https://www.offf.barcelona/tickets2026"
+  },
+  "oneshowdesignbranding2027|competition|": {
+   "acronym": "One Show Design & Branding 2027",
+   "category": "grafico",
+   "deadline": "2027-03-12",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 3,
+   "kind": "competition",
+   "location": "online",
+   "name": "The One Show Design & Branding 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "branding",
+    "identity",
+    "graphic design"
+   ],
+   "url": "https://www.awardwatch.net/competitions/one-show-design-branding-2027"
+  },
+  "pentawards2027|competition|": {
+   "acronym": "Pentawards 2027",
+   "category": "grafico",
+   "deadline": "2027-03-26",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 8,
+   "kind": "competition",
+   "location": "online",
+   "name": "Pentawards 2027 – Packaging & Graphic Category",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "packaging",
+    "graphic",
+    "branding"
+   ],
+   "url": "https://award-service.net/en/award-deadlines"
+  },
+  "picto2027|competition|pictoplasma ": {
+   "acronym": "PICTO 2027",
+   "category": "motion",
+   "deadline": "2027-01-11",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "null",
+   "id": 34,
+   "kind": "competition",
+   "location": "Berlin, Germany",
+   "name": "Pictoplasma Conference – Animation Submissions 2027",
+   "parent_conference": "Pictoplasma Conference",
+   "reminded": [],
+   "topics": [
+    "character animation",
+    "short film",
+    "experimental"
+   ],
+   "url": "https://conference.pictoplasma.com/animation"
+  },
+  "playgroundsfest2027|event|": {
+   "acronym": "Playgrounds Fest 2027",
+   "category": "motion",
+   "deadline": "2027-04-14",
+   "deadline_type": "registration",
+   "event_date": "2027-04-14",
+   "fee": null,
+   "id": 40,
+   "kind": "event",
+   "location": "Eindhoven, Netherlands",
+   "name": "Playgrounds Fest 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "motion graphics",
+    "interactive design"
+   ],
+   "url": "https://playgroundsfest.com"
+  },
+  "reddotaward2027|competition|": {
+   "acronym": "Red Dot Award 2027",
+   "category": "produto",
+   "deadline": "2027-01-15",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": null,
+   "id": 27,
+   "kind": "competition",
+   "location": "Essen, Germany",
+   "name": "Red Dot Award: Product Design 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "product",
+    "industrial",
+    "design"
+   ],
+   "url": "https://www.red-dot.org/enter-the-red-dot-design-award"
+  },
+  "reddotbrands2027|competition|": {
+   "acronym": "Red Dot Brands 2027",
+   "category": "grafico",
+   "deadline": "2027-04-23",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "valor aproximado",
+   "id": 5,
+   "kind": "competition",
+   "location": "online",
+   "name": "Red Dot Brands & Communication Design 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "branding",
+    "communication",
+    "graphic design"
+   ],
+   "url": "https://award-service.net/en/award-deadlines"
+  },
+  "salonedelmobile2027|event|": {
+   "acronym": "Salone del Mobile 2027",
+   "category": "moveis",
+   "deadline": "2027-04-13",
+   "deadline_type": "registration",
+   "event_date": "2027-04-13",
+   "fee": null,
+   "id": 31,
+   "kind": "event",
+   "location": "Milan, Italy",
+   "name": "Salone del Mobile Milano 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "furniture",
+    "design",
+    "innovation"
+   ],
+   "url": "https://www.salonemilano.it/en/exhibitions/salone-internazionale-del-mobile"
+  },
+  "sce2027|call|": {
+   "acronym": "SCE 2027",
+   "category": "produto",
+   "deadline": "2026-11-27",
+   "deadline_type": "submission",
+   "event_date": "2027-02-09",
+   "fee": "gratuito",
+   "id": 22,
+   "kind": "call",
+   "location": "Stockholm, Sweden",
+   "name": "Stockholm Creative Edition (SCE) 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "design",
+    "industrial",
+    "product"
+   ],
+   "url": "https://www.instagram.com/reel/DehPwohsvx4"
+  },
+  "sda2026|competition|": {
+   "acronym": "SDA 2026",
+   "category": "produto",
+   "deadline": "2026-12-31",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": null,
+   "id": 46,
+   "kind": "competition",
+   "location": "online",
+   "name": "Superior Design Award 2026",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "product",
+    "industrial",
+    "design"
+   ],
+   "url": "https://www.superiordesignaward.com"
+  },
+  "sidewalk2027|event|": {
+   "acronym": "Sidewalk 2027",
+   "category": "motion",
+   "deadline": "2027-04-30",
+   "deadline_type": "submission",
+   "event_date": "2027-08-23",
+   "fee": "valor aproximado",
+   "id": 36,
+   "kind": "event",
+   "location": "USA",
+   "name": "Sidewalk Film Festival 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "animation",
+    "short film"
+   ],
+   "url": "https://www.animation-festivals.com/animation-film-festivals-2027"
+  },
+  "sitfurnitureaward2027|competition|": {
+   "acronym": "SIT Furniture Award 2027",
+   "category": "moveis",
+   "deadline": "2027-03-07",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "gratuito",
+   "id": 56,
+   "kind": "competition",
+   "location": "Online",
+   "name": "SIT Furniture Design Award 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "furniture",
+    "product design",
+    "industrial design"
+   ],
+   "url": "https://www.sitaward.com/award/furniture-design"
+  },
+  "sloughmotion2027|event|": {
+   "acronym": "Slough Motion 2027",
+   "category": "motion",
+   "deadline": "2027-06-30",
+   "deadline_type": "submission",
+   "event_date": "2027-09-21",
+   "fee": "null",
+   "id": 38,
+   "kind": "event",
+   "location": "Lyon, France",
+   "name": "Slough Motion Film Festival 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "motion film",
+    "short film"
+   ],
+   "url": "https://sloughmotion.com/en/call-for-entries-2027"
+  },
+  "smof2027|event|": {
+   "acronym": "SMOF 2027",
+   "category": "motion",
+   "deadline": "2027-03-01",
+   "deadline_type": "submission",
+   "event_date": "2027-07-19",
+   "fee": "valor aproximado",
+   "id": 35,
+   "kind": "event",
+   "location": "Argentina",
+   "name": "SMOF (Stop Motion Our Festival) 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "stop motion",
+    "animation"
+   ],
+   "url": "https://www.animation-festivals.com/animation-film-festivals-2027"
+  },
+  "streetlifedesigncompetition2027|competition|": {
+   "acronym": "Streetlife Design Competition 2027",
+   "category": "produto",
+   "deadline": "2026-12-11",
+   "deadline_type": "submission",
+   "event_date": "2027-03-12",
+   "fee": "null",
+   "id": 26,
+   "kind": "competition",
+   "location": "Leiden, Netherlands",
+   "name": "Streetlife Design Competition 2026‑2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "product design",
+    "sustainable design"
+   ],
+   "url": "https://streetlifedesigncompetition.com/call-for-entries-now-open-streetlife-design-competition"
+  },
+  "tokyodesignawards2027|competition|": {
+   "acronym": "Tokyo Design Awards 2027",
+   "category": "grafico",
+   "deadline": "2027-03-11",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "$219 - $425",
+   "id": 55,
+   "kind": "competition",
+   "location": "Online",
+   "name": "2027 Tokyo Design Awards",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "branding",
+    "visual identity",
+    "graphic design"
+   ],
+   "url": "https://www.artjobs.com/open-calls/call-entries/united-states-international/83995/2027-tokyo-design-awards"
+  },
+  "uxdaautumn2027|competition|": {
+   "acronym": "UXDA Autumn 2027",
+   "category": "uiux",
+   "deadline": "2027-05-15",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "null",
+   "id": 17,
+   "kind": "competition",
+   "location": "online",
+   "name": "UX Design Awards – Autumn 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "ux",
+    "digital product",
+    "design awards"
+   ],
+   "url": "https://www.awardwatch.net/competitions/ux-design-awards-2027-autumn"
+  },
+  "uxdesignawardsautumn2027|competition|": {
+   "acronym": "UX Design Awards Autumn 2027",
+   "category": "uiux",
+   "deadline": "2027-05-15",
+   "deadline_type": "submission",
+   "event_date": null,
+   "fee": "null",
+   "id": 23,
+   "kind": "competition",
+   "location": "Berlin, Germany",
+   "name": "UX Design Awards – Autumn 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "user experience",
+    "product & concept",
+    "new talent"
+   ],
+   "url": "https://www.awardwatch.net/competitions/ux-design-awards-2027-autumn"
+  },
+  "uxscotland2027|call|": {
+   "acronym": "UX Scotland 2027",
+   "category": "uiux",
+   "deadline": "2027-06-10",
+   "deadline_type": "submission",
+   "event_date": "2027-06-09",
+   "fee": "null",
+   "id": 13,
+   "kind": "call",
+   "location": "Edinburgh, United Kingdom",
+   "name": "UX Scotland 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "ux",
+    "service design",
+    "design thinking"
+   ],
+   "url": "https://uxscotland.net/call-sessions"
+  },
+  "wuc2027qubikalist|event|": {
+   "acronym": "WUC 2027 (Qubika list)",
+   "category": "uiux",
+   "deadline": "2027-10-12",
+   "deadline_type": "registration",
+   "event_date": "2027-10-12",
+   "fee": "null",
+   "id": 15,
+   "kind": "event",
+   "location": "Graz, Austria",
+   "name": "Qubika UX/UI & Design Conferences 2027 – World Usability Congress",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "ux",
+    "ui",
+    "design thinking",
+    "ai"
+   ],
+   "url": "https://qubika.com/blog/list-of-ux-ui-conferences"
+  },
+  "wuc2027|event|": {
+   "acronym": "WUC 2027",
+   "category": "uiux",
+   "deadline": "2027-10-12",
+   "deadline_type": "registration",
+   "event_date": "2027-10-12",
+   "fee": "null",
+   "id": 10,
+   "kind": "event",
+   "location": "Graz, Austria",
+   "name": "World Usability Congress 2027",
+   "parent_conference": null,
+   "reminded": [],
+   "topics": [
+    "usability",
+    "ux",
+    "product management",
+    "ai"
+   ],
+   "url": "https://worldusabilitycongress.com/call-for-speakers"
+  }
+ },
+ "ignored": [],
+ "next_id": 57,
+ "next_sub": 1,
+ "offset": 609526267,
+ "subs": []
+}
