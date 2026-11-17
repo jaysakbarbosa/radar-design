@@ -1,0 +1,154 @@
+{
+  "model": "groq/compound",
+  "horizon_days": 365,
+  "reminder_days": [
+    14,
+    7,
+    2
+  ],
+  "priority_keywords": [
+    "awwwards",
+    "red dot",
+    "if design",
+    "d&ad",
+    "adobe max",
+    "config",
+    "salone",
+    "milan design week",
+    "cannes lions",
+    "dutch design week",
+    "annecy",
+    "siggraph",
+    "offf",
+    "bienal",
+    "museu da casa brasileira",
+    "pentawards",
+    "dyson"
+  ],
+  "models": [
+    "groq/compound",
+    "groq/compound-mini"
+  ],
+  "rag_models": [
+    "openai/gpt-oss-120b",
+    "qwen/qwen3.8-27b",
+    "openai/gpt-oss-20b"
+  ],
+  "browser_models": [
+    "openai/gpt-oss-120b"
+  ],
+  "mistral_models": [
+    "mistral-small-latest",
+    "mistral-medium-latest"
+  ],
+  "monthly_scans": 6,
+  "areas": [
+    {
+      "key": "grafico",
+      "label": "DESIGN GRÁFICO",
+      "emoji": "🎨",
+      "themes": [
+        "design gráfico, branding, tipografia e ilustração: conferências, prêmios e chamadas",
+        "prêmios de design gráfico e identidade visual com inscrições abertas",
+        "eventos e festivais de design gráfico no Brasil"
+      ],
+      "watchlist": [
+        "Pentawards",
+        "D&AD Awards",
+        "Cannes Lions",
+        "ADG Brasil Prêmio Laus",
+        "Bienal Brasileira de Design",
+        "Adobe MAX",
+        "TYPO Berlin",
+        "ATypI"
+      ]
+    },
+    {
+      "key": "uiux",
+      "label": "DESIGN DE PRODUTO DIGITAL (UI/UX)",
+      "emoji": "📱",
+      "themes": [
+        "UI/UX e design de produto digital: conferências, prêmios e chamadas de palestrantes",
+        "eventos de UX, UI, design systems e product design no Brasil",
+        "bolsas, programas e workshops de UX e product design"
+      ],
+      "watchlist": [
+        "Awwwards",
+        "Config Figma",
+        "Interaction IxDA",
+        "UX Week",
+        "UXPA International",
+        "CHI Conference",
+        "Design Systems Conference",
+        "Adobe MAX",
+        "Google I/O"
+      ]
+    },
+    {
+      "key": "produto",
+      "label": "DESIGN DE PRODUTO (GERAL)",
+      "emoji": "📦",
+      "themes": [
+        "design de produto e design industrial: prêmios e concursos com inscrição aberta",
+        "eventos, semanas e festivais de design de produto e industrial",
+        "bolsas, residências e concursos para jovens designers de produto"
+      ],
+      "watchlist": [
+        "Red Dot Design Award",
+        "iF Design Award",
+        "Good Design Award",
+        "IDEA IDSA",
+        "Core77 Design Awards",
+        "James Dyson Award",
+        "A' Design Award",
+        "Dutch Design Week",
+        "London Design Festival",
+        "Design Indaba",
+        "Prêmio Design Museu da Casa Brasileira"
+      ]
+    },
+    {
+      "key": "moveis",
+      "label": "DESIGN DE MÓVEIS",
+      "emoji": "🪑",
+      "themes": [
+        "design de móveis e mobiliário: feiras, prêmios e concursos para designers",
+        "semanas de design, feiras de mobiliário e casas de design no Brasil e no mundo",
+        "concursos e residências para jovens designers de móveis"
+      ],
+      "watchlist": [
+        "Salone del Mobile Milano",
+        "Milan Design Week Fuorisalone",
+        "imm cologne",
+        "Maison&Objet",
+        "ICFF",
+        "100% Design London",
+        "Stockholm Furniture Fair",
+        "CasaCor",
+        "Design Miami",
+        "Clerkenwell Design Week",
+        "Prêmio Design Museu da Casa Brasileira"
+      ]
+    },
+    {
+      "key": "motion",
+      "label": "MOTION DESIGN",
+      "emoji": "🎬",
+      "themes": [
+        "motion design e animação: festivais, prêmios e chamadas",
+        "eventos de motion graphics, VFX e animação no Brasil",
+        "bolsas, workshops e concursos de motion design"
+      ],
+      "watchlist": [
+        "Annecy Festival",
+        "SIGGRAPH",
+        "OFFF Barcelona",
+        "Promax Awards",
+        "Motion Design Festival",
+        "Blender Conference",
+        "Anima Mundi",
+        "Adobe MAX"
+      ]
+    }
+  ]
+}
