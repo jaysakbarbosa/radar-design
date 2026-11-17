@@ -163,7 +163,6 @@ Tudo fica no `config.json`:
 
 ## Observações
 
-- **Cota do Groq:** os bots dividem a cota diária de tokens do Groq. O Radar Design roda na **sexta às 16h**, quatro horas depois do Radar Congressos, para não disputarem a cota ao mesmo tempo. Se um modelo esgotar a cota, o bot troca sozinho para outro.
 - **Não rode a varredura várias vezes no mesmo dia.** Isso gasta a cota à toa. Os lembretes e os comandos funcionam sozinhos.
 - **Confira sempre o prazo no link** antes de se planejar. O bot lê a web com IA e às vezes erra datas ou deixa algo passar.
-- **Segredos:** nunca cole o token ou as chaves em prints, mensagens ou arquivos. Se vazar, gere outro no @BotFather com `/revoke` e atualize o secret.
+
