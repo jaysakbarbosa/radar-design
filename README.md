@@ -55,7 +55,7 @@ Se a aba Actions estiver vazia, o `radar.yml` não está em `.github/workflows/r
 
 | Quando | O que acontece |
 |---|---|
-| **Sábado, 12h (Natal)** | Varredura completa na web. Manda os itens novos, separados por área |
+| **Sexta, 16h (Natal)** | Varredura completa na web. Manda os itens novos, separados por área |
 | **Todos os outros dias, 12h** | Lembretes: avisa prazos que estão perto e datas das suas inscrições |
 | **A cada 3 horas** | Lê os comandos que você mandou e responde |
 
@@ -143,7 +143,7 @@ Apaga o registro `S1`.
 
 ## Exemplo de uso do começo ao fim
 
-1. Sábado chega a mensagem. Você vê `#5 Pentawards 2027` e quer participar.
+1. Sexta chega a mensagem. Você vê `#5 Pentawards 2027` e quer participar.
 2. Você manda `/inscrevi 5`. O bot registra como `S1` e responde com as datas que achou.
 3. Ele não achou a data do resultado. Você confere no site e manda `/data S1 Resultado 2027-03-15`.
 4. Nos dias 14, 7 e 2 antes dessa data, e no dia, o bot te avisa.
@@ -163,7 +163,7 @@ Tudo fica no `config.json`:
 
 ## Observações
 
-- **Cota do Groq:** os bots dividem a cota diária de tokens do Groq. Por isso o Radar Design roda no **sábado**; se você tiver outro bot, deixe-o em outro dia. Se um modelo esgotar a cota, o bot troca sozinho para outro.
+- **Cota do Groq:** os bots dividem a cota diária de tokens do Groq. O Radar Design roda na **sexta às 16h**, quatro horas depois do Radar Congressos, para não disputarem a cota ao mesmo tempo. Se um modelo esgotar a cota, o bot troca sozinho para outro.
 - **Não rode a varredura várias vezes no mesmo dia.** Isso gasta a cota à toa. Os lembretes e os comandos funcionam sozinhos.
 - **Confira sempre o prazo no link** antes de se planejar. O bot lê a web com IA e às vezes erra datas ou deixa algo passar.
 - **Segredos:** nunca cole o token ou as chaves em prints, mensagens ou arquivos. Se vazar, gere outro no @BotFather com `/revoke` e atualize o secret.
