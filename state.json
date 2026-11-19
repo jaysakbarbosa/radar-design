@@ -114,7 +114,9 @@
    "location": "Estocolmo, Suécia",
    "name": "The Architect’s Chair – Stockholm Furniture Fair Edition",
    "parent_conference": "Stockholm Furniture Fair",
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "furniture",
     "fair",
