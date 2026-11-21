@@ -517,7 +517,9 @@
    "location": "Florianópolis, Brasil",
    "name": "3º Congresso Latino-Americano de Desenho Cênico (CLADE 2027)",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "cenic design",
     "theatre",
@@ -725,7 +727,10 @@
    "location": "online",
    "name": "Designer Now 2027 – International Exhibition at CICA Museum",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14,
+    7
+   ],
    "topics": [
     "illustration",
     "graphic design",
@@ -787,7 +792,9 @@
    "location": "Online",
    "name": "Design Excellence Awards - Lab Design Conference",
    "parent_conference": "Lab Design Conference",
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "design",
     "interior",
@@ -807,7 +814,9 @@
    "location": "Miami Beach, United States",
    "name": "Design Miami 2026",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "design",
     "art",
@@ -950,7 +959,9 @@
    "location": "Madrid, Espanha",
    "name": "Ey!Studio AiR Residency 2027",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "residency",
     "art",
@@ -1109,7 +1120,9 @@
    "location": "New York, USA",
    "name": "Graphis Design Annual 2027 – Photography Category",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "photography",
     "graphic",
@@ -1148,7 +1161,9 @@
    "location": "online",
    "name": "Graphis Design Annual 2027 – Photography Category",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "photography",
     "graphic design"
@@ -1284,7 +1299,9 @@
    "location": "Maceió, Brasil",
    "name": "International Conference on Human-Centered Computing and Interface Design (ICHCCID 2027)",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "human-centered computing",
     "interface design",
@@ -1304,7 +1321,9 @@
    "location": "Rio de Janeiro, Brasil",
    "name": "International Conference on Human Computer Interaction (ICHCI 2027)",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "human-computer interaction",
     "usabilidade",
@@ -1986,7 +2005,9 @@
    "location": "Rio de Janeiro, Brazil",
    "name": "Rio Webfest 2026 – Open Call",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "web animation",
     "motion graphics",
