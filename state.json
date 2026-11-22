@@ -376,7 +376,9 @@
    "location": "Aracaju, Brasil",
    "name": "14ª Bienal Brasileira de Design",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "design gráfico",
     "exposição",
@@ -683,7 +685,8 @@
    "name": "DATE 2027 – Design, Architecture, Technology & Engineering Conference",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "design",
@@ -729,7 +732,8 @@
    "parent_conference": null,
    "reminded": [
     14,
-    7
+    7,
+    2
    ],
    "topics": [
     "illustration",
