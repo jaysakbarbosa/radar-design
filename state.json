@@ -74,7 +74,8 @@
    "name": "AI 2027 Conference – Designing AI Experiences",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "ai",
@@ -95,7 +96,9 @@
    "location": "New York, USA",
    "name": "AIANY Design Awards",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "architecture",
     "design"
@@ -114,7 +117,9 @@
    "location": "New York, USA",
    "name": "AIANY Design Awards 2027 (deadline announced for 2026)",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "architecture",
     "design"
@@ -301,29 +306,6 @@
     "product design"
    ],
    "url": "https://www.asid.org/events/2027-design-excellence-awards-submissions-now-open"
-  },
-  "atypiboardelections2026|call|": {
-   "acronym": "ATypI Board Elections 2026",
-   "category": "grafico",
-   "deadline": "2026-11-22",
-   "deadline_type": "speaker",
-   "event_date": null,
-   "fee": "gratuito",
-   "id": 9,
-   "kind": "call",
-   "location": "online",
-   "name": "ATypI 2026 Board Elections",
-   "parent_conference": null,
-   "reminded": [
-    14,
-    7,
-    2
-   ],
-   "topics": [
-    "governance",
-    "membership"
-   ],
-   "url": "https://atypi.org/about-atypi/atypi-news"
   },
   "awardwatch2027|competition|": {
    "acronym": "AwardWatch 2027",
@@ -819,7 +801,8 @@
    "name": "Design Miami 2026",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "design",
@@ -903,7 +886,8 @@
    "name": "Design Incubation Communication Design Educators Awards 2026",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "communication",
@@ -964,7 +948,8 @@
    "name": "Ey!Studio AiR Residency 2027",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "residency",
@@ -1085,7 +1070,9 @@
    "location": "Online",
    "name": "AI Creative – Graphis Awards",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "artificial intelligence",
     "creative"
@@ -1104,7 +1091,9 @@
    "location": "New York, USA",
    "name": "Graphis Design Annual 2027 – AI Creative Category",
    "parent_conference": null,
-   "reminded": [],
+   "reminded": [
+    14
+   ],
    "topics": [
     "ai",
     "graphic",
@@ -1125,7 +1114,8 @@
    "name": "Graphis Design Annual 2027 – Photography Category",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "photography",
@@ -1166,7 +1156,8 @@
    "name": "Graphis Design Annual 2027 – Photography Category",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "photography",
@@ -1304,7 +1295,8 @@
    "name": "International Conference on Human-Centered Computing and Interface Design (ICHCCID 2027)",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "human-centered computing",
@@ -1326,7 +1318,8 @@
    "name": "International Conference on Human Computer Interaction (ICHCI 2027)",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "human-computer interaction",
@@ -1528,7 +1521,8 @@
    "name": "IxDA Global Student Interaction Design Competition",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "interaction design",
@@ -2010,7 +2004,8 @@
    "name": "Rio Webfest 2026 – Open Call",
    "parent_conference": null,
    "reminded": [
-    14
+    14,
+    7
    ],
    "topics": [
     "web animation",
