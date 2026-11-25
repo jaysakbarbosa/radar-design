@@ -700,31 +700,6 @@
    ],
    "url": "httpshttps://www.labdesignconference.com/design-excellence-awards"
   },
-  "designernow2027|call|": {
-   "acronym": "Designer Now 2027",
-   "category": "grafico",
-   "deadline": "2026-11-24",
-   "deadline_type": "submission",
-   "event_date": null,
-   "fee": "gratuito",
-   "id": 60,
-   "kind": "call",
-   "location": "online",
-   "name": "Designer Now 2027 – International Exhibition at CICA Museum",
-   "parent_conference": null,
-   "reminded": [
-    14,
-    7,
-    2
-   ],
-   "topics": [
-    "illustration",
-    "graphic design",
-    "motion graphics",
-    "interactive design"
-   ],
-   "url": "https://arts.ca.gov/collective/cica-museum-242-4-call-for-designers-designer-now-2027-the-international-exhibition-at-cica-museum"
-  },
   "designeuropa2027|competition|": {
    "acronym": "DesignEuropa 2027",
    "category": "grafico",
@@ -2048,7 +2023,8 @@
    "parent_conference": null,
    "reminded": [
     14,
-    7
+    7,
+    2
    ],
    "topics": [
     "design",
